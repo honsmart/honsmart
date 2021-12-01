@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwEbUQHch3oCPtT4KJhbeSIEUsDZBWuAJfA&usqp=CAU" alt="honsmart" /> </p>
 <h1 align="center">Hi 👋, I'm Honsmart</h1>
 <h3 align="center">A passionate Software Developer from Nigeria, with core skills to Develop sophisticated software's.</h3>
 
