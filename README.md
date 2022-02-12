@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently Working as Python Instructor [Kidstech Africa](https://kidstech.africa/)
 
-- 👨‍💻 All of my projects are available at [https://binarytechsolution.com.ng](https://binarytechsolution.com.ng)
+- 👨‍💻 All of my projects are available at [https://honsmart.github.io/](https://honsmart.github.io/)
 
 - 📝 I regularly write articles on [https://devblog.binarytechsolution.com.ng/](https://devblog.binarytechsolution.com.ng/)
 
