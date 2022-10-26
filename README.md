@@ -11,19 +11,16 @@
 
 - 🔭 I’m currently working as freelancer on [Fiverr Company](https://www.fiverr.com/honsmart)
 
-- 🌱 I’m currently Working as Software Developer at [Digprom International](https://digprom.net)
-
-- 🌱 I’m currently Working as Python Instructor [Kidstech Africa](https://kidstech.africa/)
-
 - 👨‍💻 All of my projects are available at [https://honsmart.github.io/](https://honsmart.github.io/)
 
 - 📝 I regularly write articles on [https://devblog.binarytechsolution.com.ng/](https://devblog.binarytechsolution.com.ng/)
 
 - 💬 Ask me about **Node js, Nest js, laravel, Django, Flask, Express.js, Angular, vue js, react js, react native, flutter, jQuery**
 
-- 📫 How to reach me **adegboyeopeyemi@binarytechsolution.com.ng**
+- 📫 How to reach me **adegboyeopeyemi580@gmail.com**
+- 📫 How to reach me on linkedin **https://www.linkedin.com/in/honsmart**
 
-- 📄 Know about my experiences [https://binarytechsolution.com.ng/](https://binarytechsolution.com.ng/)
+- 📄 Know about my experiences [https://binarytechsolution.com.ng/](https://https://honsmart.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
