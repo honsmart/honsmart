@@ -35,19 +35,7 @@
 
 
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/honsmart rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-dac3c272-a0c8-497a-805d-8be2cde6a8bf' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >honsmart</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>A Professional Software developer and Graphics Designer, with core skills to develop Responsive website design and development, Complex Web apps, Mobile app development and Software development and eye-catching graphics, Working with us will surely leave you speechless , We work hard to deliver top notch for our clients</div>
-        </div>
-    </a>
-</div>
 
-<script id='fiverr-seller-widget-script-dac3c272-a0c8-497a-805d-8be2cde6a8bf' src='https://widgets.fiverr.com/api/v1/seller/honsmart?widget_id=dac3c272-a0c8-497a-805d-8be2cde6a8bf' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 
 <h3 align="left">Languages and Tools:</h3>
