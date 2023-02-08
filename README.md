@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://honsmart.github.io/](https://honsmart.github.io/)
 
-- 📝 I regularly write articles on [https://devblog.binarytechsolution.com.ng/](https://devblog.binarytechsolution.com.ng/)
+- 📝 I regularly write articles on [https://medium.com/@adegboyeopeyemi580](https://medium.com/@adegboyeopeyemi580)
 
 - 💬 Ask me about **Node js, Nest js, laravel, Django, Flask, Express.js, Angular, vue js, react js, react native, flutter, jQuery**
 
