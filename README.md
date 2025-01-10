@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Honsmart</h1>
 <h3 align="center">A passionate Software Developer from Nigeria, with core skills to Develop sophisticated software's.</h3>
 
-<p align="center"> <img src="https://binarytechsolution.com.ng/assets/images/team/style1/Honsmart.png" alt="honsmart" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honsmart&label=Profile%20views&color=0e75b6&style=flat" alt="honsmart" /> </p>
 
@@ -9,18 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/honsmart123" target="blank"><img src="https://img.shields.io/twitter/follow/honsmart123?logo=twitter&style=for-the-badge" alt="honsmart123" /></a> </p>
 
-- 🔭 I’m currently working as freelancer on [Fiverr Company](https://www.fiverr.com/honsmart)
-
-- 👨‍💻 All of my projects are available at [https://honsmart.github.io/](https://honsmart.github.io/)
-
 - 📝 I regularly write articles on [https://medium.com/@adegboyeopeyemi580](https://medium.com/@adegboyeopeyemi580)
 
 - 💬 Ask me about **Node js, Nest js, laravel, Django, Flask, Express.js, Angular, vue js, react js, react native, flutter, jQuery**
 
 - 📫 How to reach me **adegboyeopeyemi580@gmail.com**
 - 📫 How to reach me on linkedin **https://www.linkedin.com/in/honsmart**
-
-- 📄 Know about my experiences [https://binarytechsolution.com.ng/](https://https://honsmart.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
